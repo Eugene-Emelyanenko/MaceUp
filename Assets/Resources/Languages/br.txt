@@ -1,0 +1,11 @@
+PLAY=JOGAR
+SETTING=CONFIGURACAO
+MENU=MENU
+RULES=COMO JOGAR
+RESUME=RESUMO
+RESTART=REINICIAR
+SHOP=LOJA
+RULESTEXT=Toque na tela para definir a direcao do voo da maca. Toque para ajustar a forca do arremesso. Acerte o alvo!
+PAUSE=PAUSA
+SCORE=ESCORE
+RECORD=REGISTRO

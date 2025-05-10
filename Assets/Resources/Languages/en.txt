@@ -1,0 +1,11 @@
+PLAY=PLAY
+SETTING=SETTING
+MENU=MENU
+RULES=HOW TO PLAY
+RESUME=RESUME
+RESTART=RESTART
+SHOP=SHOP
+RULESTEXT=Tap the screen to set the direction of the mace's flight. Tap to adjust the force of the throw. Hit the target!
+PAUSE=PAUSE
+SCORE=SCORE
+RECORD=RECORD
